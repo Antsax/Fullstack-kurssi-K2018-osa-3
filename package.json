@@ -1,0 +1,29 @@
+{
+  "name": "osa3-tehtava1-6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "nodemon index.js",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Antsax/Fullstack-kurssi-K2018-osa-3.git"
+  },
+  "author": "Antwan Hommy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Antsax/Fullstack-kurssi-K2018-osa-3/issues"
+  },
+  "homepage": "https://github.com/Antsax/Fullstack-kurssi-K2018-osa-3#readme",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "morgan": "^1.9.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.12"
+  }
+}
